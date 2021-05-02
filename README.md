@@ -11,7 +11,7 @@
 
 - ✉ Email: **helex.dev@gmail.com**
 
-- ☕ Fun fact: **I am a coffee addict**
+- ☕ Fun fact: **I'm a coffee addict**
 
 
 <h3 align="left">Languages:</h3>
@@ -19,5 +19,5 @@
   
 <h3 align="left">Platforms:</h3>
   
-<p align="left"> <a href="https://www.pocketmine.net/" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/pockemtmine.png" alt="pocketmine" width="40" height="40"/> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/790012.png" alt="xamarin" width="40" height="40"/> </a> <a href="https://wordpress.com" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/wordpress.png" alt="wordpress" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.pocketmine.net/" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/pockemtmine.png" alt="pocketmine" width="40" height="40"/> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/xamarin.png" alt="xamarin" width="40" height="40"/> </a> <a href="https://wordpress.com" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/wordpress.png" alt="wordpress" width="40" height="40"/> </a> </p>
   
