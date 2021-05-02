@@ -13,7 +13,7 @@
 
 - ☕ Fun fact: **I'm a coffee addict**
 
-<h3 align="left">GitHub Statistics:</h3>
+### Github
 ![](https://github.com/HelexDev/HelexDev/blob/master/generated/overview.svg)
 ![](https://github.com/HelexDev/HelexDev/blob/master/generated/languages.svg)
 
