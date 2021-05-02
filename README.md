@@ -11,7 +11,7 @@
 
 - ✉ Email: **helex.dev@gmail.com**
 
-- ⚡ Fun fact: **I am a coffee addict ☕**
+- ☕ Fun fact: **I am a coffee addict**
 
 
 <h3 align="left">Languages and Tools:</h3>
