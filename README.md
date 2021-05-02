@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hey! I'm Helex.</h1>
 <h3 align="center">I'm a Web, Pocketmine, Python and App developer from Australia.</h3>
 
-- 💻 I’m currently working on [The Bridge for PocketMine-MP](https://github.com/HelexDev/TheBridge)
+- 💻 I’m currently working on: [The Bridge for PocketMine-MP](https://github.com/HelexDev/TheBridge)
 
-- 🌱 I’m currently learning **C++ and C#**
+- 🌱 I’m currently learning: **C++ and C#**
 
-- 📝 My most recent project [SlotsPlus](https://github.com/HelexDev/SlotsPlus)
+- 📝 My most recent project: [SlotsPlus](https://github.com/HelexDev/SlotsPlus)
 
 - 💬 Discord: **Helex#0529**
 
