@@ -7,7 +7,7 @@
 
 - 📝 My most recent project: [SlotsPlus](https://github.com/HelexDev/SlotsPlus)
 
-- 📖 Portfolio: [Website](https://helex.pages.dev)
+- 📖 Portfolio: [helex.pages.dev](https://helex.pages.dev)
 
 - 💬 Discord: **Helex#0529**
 
