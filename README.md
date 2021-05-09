@@ -9,7 +9,7 @@
 
 - 📖 Portfolio: [helex.pages.dev](https://helex.pages.dev)
 
-- 💬 Discord: **Helex#0529**
+- 💬 Discord: **Helex#1907**
 
 - ✉ Email: **helex.dev@gmail.com**
 
