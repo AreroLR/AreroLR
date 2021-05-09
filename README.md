@@ -13,8 +13,6 @@
 
 - ✉ Email: **helex.dev@gmail.com**
 
-- ☕ Fun fact: **I'm a coffee addict**
-
 ### Github Statistics:
 ![](https://github.com/HelexDev/HelexDev/blob/master/generated/overview.svg)
 ![](https://github.com/HelexDev/HelexDev/blob/master/generated/languages.svg)
