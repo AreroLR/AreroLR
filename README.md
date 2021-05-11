@@ -22,7 +22,3 @@
   
 <h3 align="left">Platforms I use:</h3>
 <p align="left"> <a href="https://www.pocketmine.net/" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/pockemtmine.png" alt="pocketmine" width="40" height="40"/> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/xamarin.png" alt="xamarin" width="43" height="40"/> </a> <a href="https://wordpress.com" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/wordpress.png" alt="wordpress" width="43" height="43"/> </a> </p>
-  
-<h3 align="left">IDEs I use:</h3>
-<p align="left"> <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/phpstorm.png" alt="phpstorm" width="40" height="40"/> <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/pycharm.png" alt="pycharm" width="40" height="40"/> </a> <a href="https://atom.io/" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/atom.png" alt="atom" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/clion.png" alt="clion" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://github.com/HelexDev/HelexDev/blob/master/visualstudio.png" alt="vs" width="40" height="40"/> </a> </p>  
-  
