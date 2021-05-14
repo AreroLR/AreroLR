@@ -3,9 +3,9 @@
 
 - 💻 I’m currently working on: [The Bridge for PocketMine-MP](https://github.com/HelexDev/TheBridge)
 
-- 🌱 I’m currently learning: **C++**
-
 - 📝 My most recent project: [SlotsPlus](https://github.com/HelexDev/SlotsPlus)
+
+- 🌱 I’m currently learning: **C++**
 
 - 📖 Portfolio: [helex.pages.dev](https://helex.pages.dev)
 
