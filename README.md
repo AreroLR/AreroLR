@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey! I'm Helex.</h1>
-<h3 align="center">I'm a Web, Pocketmine & App developer.</h3>
+<h1 align="center">👋 Hey! I'm Sky.</h1>
+<h3 align="center">I'm a web, pocketmine & app developer.</h3>
 
 - 💻 I’m currently working on: [The Bridge for PocketMine-MP](https://github.com/HelexDev/TheBridge)
 
