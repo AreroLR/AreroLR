@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hey! I'm Sky.</h1>
 <h3 align="center">I'm a web, pocketmine & app developer.</h3>
 
-- 💻 I’m currently working on: [The Bridge for PocketMine-MP](https://github.com/HelexDev/TheBridge)
+- 💻 I’m currently working on: [CosmeticsPlus](https://github.com/Skylelo/CosmeticsPlus)
 
-- 📝 My most recent project: [SlotsPlus](https://github.com/HelexDev/SlotsPlus)
+- 📝 My most recent project: [SlotsPlus](https://github.com/Skylelo/SlotsPlus)
 
 - 🌱 I’m currently learning: **C++**
 
