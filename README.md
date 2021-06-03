@@ -11,7 +11,7 @@
 
 - 💬 Discord: **Skylelo#1907**
 
-- ✨ AKA: **Helex, Ben**
+- ✨ AKA: **Ben**
 
 ### Github Statistics:
 ![](https://github.com/Skylelo/Skylelo/blob/master/generated/overview.svg)
