@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! I'm Sky.</h1>
 <h3 align="center">I'm a web, pocketmine & app developer.</h3>
 
-- 💻 I’m currently working on: [CosmeticsPlus](https://github.com/Skylelo/CosmeticsPlus)
+- 💻 I’m currently working on: [BetterCosmetics](https://github.com/Skylelo/BetterCosmetics)
 
 - 📝 My most recent project: [SlotsPlus](https://github.com/Skylelo/SlotsPlus)
 
