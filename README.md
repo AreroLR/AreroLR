@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! I'm Sky.</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hey! I'm Sky.</h1>
 <h3 align="center">I'm a web, pocketmine & app developer.</h3>
 
 - 💻 I’m currently working on: [BetterCosmetics](https://github.com/Skylelo/BetterCosmetics)
