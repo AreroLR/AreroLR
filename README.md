@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning: **C++**
 
-- 📖 Website: [skylelo.pages.dev](https://skylelo.pages.dev)
-
 - 💬 Discord: **AreroLR#1907**
 
-- ✨ AKA: **Ben**
+- ✨ AKA: **Ben, Skylelo**
 
 ### Github Statistics:
 ![](https://github.com/Skylelo/Skylelo/blob/master/generated/overview.svg)
