@@ -1,11 +1,6 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hey! I'm Arero.</h1>
-<h3 align="center">I'm a web, pocketmine & app developer.</h3>
 
-- 💻 I’m currently working on: [BetterCosmetics](https://github.com/Skylelo/BetterCosmetics)
-
-- 📝 My most recent project: [SlotsPlus](https://github.com/Skylelo/SlotsPlus)
-
-- 🌱 I’m currently learning: **C++**
+- 💻 I have worked on Discord bots, PocketMine plugins & websites.
 
 - 💬 Discord: **AreroLR#1907**
 
