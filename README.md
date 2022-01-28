@@ -4,7 +4,7 @@
 
 - 👨‍💻 Developer at [Zeqa](https://github.com/zeqanetwork), Ex-Developer at [Astral Client](https://github.com/astralclientnet) & [Turtle Client](https://github.com/turtleutilitypack)
 
-- 💬 Discord: **AreroLR#1907**
+- 💬 Discord: **Ben.#1907**
 
 - ✨ AKA: **Ben, Skylelo**
 
