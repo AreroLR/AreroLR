@@ -2,7 +2,7 @@
 
 - 💻 I have worked on Discord bots, PocketMine plugins & websites.
 
-- 👨‍💻 Developer at [Zeqa](https://github.com/zeqanetwork), Ex-Developer at [Astral Client](https://github.com/astralclientnet) & [Turtle Client](https://github.com/turtleutilitypack)
+- 👨‍💻 Developer at [Zeqa](https://github.com/zeqanetwork)
 
 - 💬 Discord: **Ben.#9999**
 
